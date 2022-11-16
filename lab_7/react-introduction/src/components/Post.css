@@ -1,0 +1,7 @@
+.posts{
+    display: flex;
+    flex-direction: row;
+    border:2px;
+    margin: 2em;
+    
+}
